@@ -20,7 +20,7 @@
     border-top-left-radius: 25px;
   }
   .container {
-    width: 56%;
+    width: 35%;
     /* border-radius: 35px; */
     /* border: 3px solid green; */
   }
@@ -33,7 +33,7 @@
   }
   
   .cols {
-    width: 14%;
+    width: 7%;
     display: inline;
     float: left;
     color: white;
@@ -52,7 +52,7 @@
     border-bottom-right-radius: 25px;
   }
   #zero {
-    padding-right: 226px;
+    padding-right:156px;
     border-bottom-left-radius: 25px;
   }
 
@@ -62,4 +62,9 @@
     background-color:rgb(45, 45, 54) ;
     border: 1px solid rgb(45, 45, 54);
     text-align: right;
+  }
+  #lastvalue{
+  float: left;
+    color:white;
+    font-size: 20px;
   }
